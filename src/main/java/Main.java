@@ -7,7 +7,8 @@
 public class Main {
 
     /**
-     * Método principal que ejecuta el programa de prueba.
+     * NUEVO CAMBIO PARA REALIZAR EL SEGUNDO COMMIT Método principal que ejecuta
+     * el programa de prueba.
      *
      * @param args Argumentos de línea de comandos (no se utilizan).
      */
